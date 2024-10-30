@@ -1,0 +1,13 @@
+langgraph
+python-docx 
+gradio 
+openpyxl 
+transformers 
+torch 
+databricks-sdk 
+databricks-agents 
+mlflow-skinny 
+mlflow 
+mlflow[gateway] 
+langchain_community 
+langchain_databricks
