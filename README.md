@@ -22,6 +22,8 @@ The system consists of several key components:
 - Error Handler: Manages error recovery and retry logic
 - User Interaction Handler: Processes user inputs and commands
 
+![image](https://github.com/user-attachments/assets/3bbd5a94-0e98-41bf-94b8-5d1f8053b979)
+
 📋 Prerequisites
 
 - Python 3.8+
