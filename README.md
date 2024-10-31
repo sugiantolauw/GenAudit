@@ -12,6 +12,7 @@ An intelligent audit workflow system that automates the generation of comprehens
 - Quality Evaluation: Built-in evaluation metrics for content accuracy, structure, and readability
 
 🛠 Technical Architecture
+
 The system consists of several key components:
 
 - Workflow Controller: Orchestrates the entire audit process
@@ -20,3 +21,4 @@ The system consists of several key components:
 - Report Generator Agent: Creates structured audit reports
 - Error Handler: Manages error recovery and retry logic
 - User Interaction Handler: Processes user inputs and commands
+
