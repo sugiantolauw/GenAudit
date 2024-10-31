@@ -22,3 +22,15 @@ The system consists of several key components:
 - Error Handler: Manages error recovery and retry logic
 - User Interaction Handler: Processes user inputs and commands
 
+📋 Prerequisites
+
+- Python 3.8+
+- Databricks Runtime Environment
+- Required Python packages:
+  - langgraph
+  - langchain
+  - mlflow
+  - gradio
+  - pandas
+  - python-docx
+  - databricks-sdk
