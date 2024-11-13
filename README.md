@@ -2,7 +2,7 @@
 
 An intelligent audit workflow system that automates the generation of comprehensive audit reports using LangGraph, MLflow, and advanced language models. The system processes control testing data, risk matrices, and historical audit information to produce structured, professional audit reports.
 
-🌟 Features
+## 🌟 Features
 
 - Automated Workflow Processing: Orchestrated multi-step audit process using LangGraph
 - Intelligent Risk Assessment: Analysis of control testing data with risk categorization
@@ -11,7 +11,7 @@ An intelligent audit workflow system that automates the generation of comprehens
 - Interactive Interface: User-friendly Gradio interface for file uploads and workflow execution
 - Quality Evaluation: Built-in evaluation metrics for content accuracy, structure, and readability
 
-🛠 Technical Architecture
+## 🛠 Technical Architecture
 
 The system consists of several key components:
 
@@ -24,7 +24,13 @@ The system consists of several key components:
 
 ![image](https://github.com/user-attachments/assets/3bbd5a94-0e98-41bf-94b8-5d1f8053b979)
 
-📋 Prerequisites
+## Data 
+- Risk Matrix (which details how we classify risk based on its impact)
+- Control Testing File (which details what the auditor is testing, if the control is adequate or not, and the testing results)
+- Previous Audit Report (for same audit but from previous year)
+
+  
+## 📋 Prerequisites
 
 - Python 3.8+
 - Databricks Runtime Environment
