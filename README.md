@@ -36,6 +36,13 @@ Input files:
 - Previous Audit Report (for same audit but from previous year)
 ![image](https://github.com/user-attachments/assets/7e4e95f7-8d2f-4242-8a1a-57170df99e7b)
 
+## Output
+![image](https://github.com/user-attachments/assets/af18e448-a11d-4d2e-82c7-9fa77ea42203)
+![image](https://github.com/user-attachments/assets/73155e19-3454-4a6a-8de7-998a81b0c3d1)
+![Uploading image.png…]()
+
+
+
 ## Challenges
 - Getting access to Llama 3.1 8B model which was resolved (Llama 3.1 only available in US region, not AU)
 - File Access Issues with Databricks Apps (Couldn't properly read files uploaded to Volumes through Apps)
