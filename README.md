@@ -11,6 +11,19 @@ An intelligent audit workflow system that automates the generation of comprehens
 - Interactive Interface: User-friendly Gradio interface for file uploads and workflow execution
 - Quality Evaluation: Built-in evaluation metrics for content accuracy, structure, and readability
 
+## 📋 Prerequisites
+
+- Python 3.8+
+- Databricks Runtime Environment
+- Required Python packages:
+  - langgraph
+  - langchain
+  - mlflow
+  - gradio
+  - pandas
+  - python-docx
+  - databricks-sdk
+
 ## 🛠 Technical Architecture
 
 The system consists of several key components:
@@ -42,7 +55,6 @@ Input files:
 ![image](https://github.com/user-attachments/assets/73155e19-3454-4a6a-8de7-998a81b0c3d1)
 
 ## Demo
-https://youtu.be/2V_gO0vBh2U
 
 
 
@@ -50,16 +62,9 @@ https://youtu.be/2V_gO0vBh2U
 - Getting access to Llama 3.1 8B model which was resolved (Llama 3.1 only available in US region, not AU)
 - File Access Issues with Databricks Apps (Couldn't properly read files uploaded to Volumes through Apps)
 
+## Accomplishments
 
-## 📋 Prerequisites
 
-- Python 3.8+
-- Databricks Runtime Environment
-- Required Python packages:
-  - langgraph
-  - langchain
-  - mlflow
-  - gradio
-  - pandas
-  - python-docx
-  - databricks-sdk
+## Learnings
+
+
