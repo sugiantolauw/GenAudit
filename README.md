@@ -28,7 +28,7 @@ An intelligent audit workflow system that automates the generation of comprehens
 
 The system consists of several key components:
 
-- Workflow Controller: Orchestrates the entire audit process
+- Workflow Controller: Plan and manage the entire audit report generation process
 - Preprocessor Agent: Handles initial data processing and validation
 - Risk Assessment Agent: Analyzes control testing data and generates risk assessments
 - Report Generator Agent: Creates structured audit reports
