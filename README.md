@@ -67,4 +67,5 @@ Input files:
 
 ## Learnings
 
-
+## Thank you
+Thank you to Databricks team for helping us throughout this hackathon especially Brian Law and Scott Eade
