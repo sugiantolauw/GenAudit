@@ -25,10 +25,8 @@ An intelligent audit workflow system that automates the generation of comprehens
   - databricks-sdk
 
 ## Demo
-#[![GenAudit](https://img.youtube.com/vi/2V_gO0vBh2U/1.jpg)](https://www.youtube.com/watch?v=2V_gO0vBh2U)
-
 <a href="https://www.youtube.com/watch?v=2V_gO0vBh2U" target="_blank">
-    <img src="https://img.youtube.com/vi/2V_gO0vBh2U/1.jpg" alt="YouTube Video" width="600">
+    <img src="https://img.youtube.com/vi/2V_gO0vBh2U/0.jpg" alt="YouTube Video" width="600">
 </a>
 
 ## 🛠 Technical Architecture
