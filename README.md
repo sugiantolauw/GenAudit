@@ -24,6 +24,13 @@ An intelligent audit workflow system that automates the generation of comprehens
   - python-docx
   - databricks-sdk
 
+## Demo
+#[![GenAudit](https://img.youtube.com/vi/2V_gO0vBh2U/1.jpg)](https://www.youtube.com/watch?v=2V_gO0vBh2U)
+
+<a href="https://www.youtube.com/watch?v=2V_gO0vBh2U" target="_blank">
+    <img src="https://img.youtube.com/vi/2V_gO0vBh2U/1.jpg" alt="YouTube Video" width="600">
+</a>
+
 ## 🛠 Technical Architecture
 
 The system consists of several key components:
@@ -54,8 +61,6 @@ Input files:
 ![image](https://github.com/user-attachments/assets/af18e448-a11d-4d2e-82c7-9fa77ea42203)
 ![image](https://github.com/user-attachments/assets/73155e19-3454-4a6a-8de7-998a81b0c3d1)
 
-## Demo
-[![GenAudit](https://img.youtube.com/vi/2V_gO0vBh2U/1.jpg)](https://www.youtube.com/watch?v=2V_gO0vBh2U)
 
 
 
