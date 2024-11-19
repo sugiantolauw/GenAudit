@@ -24,7 +24,7 @@ An intelligent audit workflow system that automates the generation of comprehens
   - python-docx
   - databricks-sdk
 
-## Demo
+## Demo (click on the image below)
 <a href="https://www.youtube.com/watch?v=2V_gO0vBh2U" target="_blank">
     <img src="https://img.youtube.com/vi/2V_gO0vBh2U/0.jpg" alt="YouTube Video" width="600">
 </a>
