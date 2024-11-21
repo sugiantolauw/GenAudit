@@ -103,4 +103,4 @@ Our journey to implement and evaluate the multi-agent LLM architecture came with
 - From a technical perspective, we gained hands-on expertise in emerging technologies. Mastering LangGraph’s orchestration, navigating Databricks’ advanced features, and designing intuitive user experiences with Gradio deepened our understanding of modern AI 
  infrastructure. Additionally, exploring Databricks training series and hackathon tutorials broadened our exposure to tools and solutions for building GenAI applications.  
 ## Thank you
-Thank you to Databricks team for helping us throughout this hackathon especially Brian Law and Scott Eade
+Thank you to Databricks team for helping us throughout this hackathon especially June Tan, Jon Levine, Brian Law and Scott Eade
