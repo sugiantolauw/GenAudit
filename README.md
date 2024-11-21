@@ -49,8 +49,10 @@ Note that:
 Input files:
 - Risk Matrix (which details how we classify risk based on its impact)
 ![image](https://github.com/user-attachments/assets/09739bd1-7748-4165-81fa-d15066415371)
+
 - Control Testing File (which details what the auditor is testing, if the control is adequate or not, and the testing results)
 ![image](https://github.com/user-attachments/assets/4f863512-c98d-4ad9-97fc-c3ba416b1ce0)
+
 - Previous Audit Report (for same audit but from previous year)
 ![image](https://github.com/user-attachments/assets/7e4e95f7-8d2f-4242-8a1a-57170df99e7b)
 
